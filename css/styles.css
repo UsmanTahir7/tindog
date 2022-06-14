@@ -53,6 +53,16 @@ body {
     margin: 5% 3% 5% 0;
 }
 
+.btn-light{
+    color: black;
+    background-color: white;
+    border: 0;
+}
+.btn-light:hover {
+    color: white;
+    background-color: black;
+}
+
 /* Title Images */
 
 .title-image {
